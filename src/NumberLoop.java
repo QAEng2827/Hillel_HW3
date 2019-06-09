@@ -1,4 +1,6 @@
 import java.util.Scanner;
+/*Write a Java program that accepts n (n>=1) integers from the user and then prints the sum,
+the multiplication, the average, the maximum (the larger of integers), the minimum (smaller of integers)*/
 
 public class NumberLoop {
 
